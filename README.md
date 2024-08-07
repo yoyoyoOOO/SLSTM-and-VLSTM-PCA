@@ -24,11 +24,16 @@ The SLSTM network structure was shown in Fig. The corresponding method was provi
 The VLSTM-PCA network structure was shown in Fig. The corresponding method was provided in the VLSTM-PCA network structure.py. The method to obtain Voronoi data was provided in the Voronoi tessellation for inverse operator.py
 ![image text](https://github.com/yoyoyoOOO/SLSTM-and-VLSTM-PCA/blob/main/VLSTM-PCA%26SLSTM/Picture/VLSTM-PCA.png)
 ## SLSTM result
+### Original dataset
 ![image text](https://github.com/yoyoyoOOO/SLSTM-and-VLSTM-PCA/blob/main/VLSTM-PCA%26SLSTM/Picture/SLSTM%20original%20dataset.png)
+### Recurrent prediction
 ![image text](https://github.com/yoyoyoOOO/SLSTM-and-VLSTM-PCA/blob/main/VLSTM-PCA%26SLSTM/Picture/SLSTM%20recurrent%20prediction%20.png)
 ## VLSTM-PCA result
+### Original dataset
 ![image text](https://github.com/yoyoyoOOO/SLSTM-and-VLSTM-PCA/blob/main/VLSTM-PCA%26SLSTM/Picture/VLSTM-PCA%20original%20dataset.png)
+### Original dataset after PCA
 ![image text](https://github.com/yoyoyoOOO/SLSTM-and-VLSTM-PCA/blob/main/VLSTM-PCA%26SLSTM/Picture/VLSTM-PCA%20original%20dataset%20after%20PCA.png)
+### Recurrent prediction
 ![image text](https://github.com/yoyoyoOOO/SLSTM-and-VLSTM-PCA/blob/main/VLSTM-PCA%26SLSTM/Picture/VLSTM-PCA%20recurrent%20prediction%20.png)
 
 
