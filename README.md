@@ -13,11 +13,13 @@ Programming language: Python (3.8 or higher)
 #### Tensorflow (2.10.0 or higher)
 #### Keras (2.10.0 or higher)
 ## Dataset
-The data is not disclosed because the 168 RVE models and the overall data after data processing exceed 500 GB therefore the data is not disclosed. Interested readers can contact the author.
+The data was not disclosed because the 168 RVE models and the overall data after data processing exceed 500 GB therefore the data was not disclosed. Interested readers can contact the author.The author have placed the two trained models SLSTM_MODEL.h5 and VLSTM-PCA_MODEL.h5 in folders for interested readers to investigate
 ## Numerical simulation data preprocessing
 Numerical simulation data preprocessing method is provided in Numerical simulation data preprocessing method.py
 ## SLSTM
+The SLSTM network structure was shown in Fig. The corresponding method was provided in the SLSTM network structure.py. The method to obtain SLSTM data features was provided in the Method to obtain semiaxes of ellipsoidal voids.py
 ![image text](https://github.com/yoyoyoOOO/SLSTM-and-VLSTM-PCA/blob/main/VLSTM-PCA%26SLSTM/Picture/SLSTM.png)
 
 ## VLSTM-PCA
+The VLSTM-PCA network structure was shown in Fig. The corresponding method was provided in the VLSTM-PCA network structure.py. The method to obtain Voronoi data was provided in the Voronoi tessellation for inverse operator.py
 ![image text](https://github.com/yoyoyoOOO/SLSTM-and-VLSTM-PCA/blob/main/VLSTM-PCA%26SLSTM/Picture/VLSTM-PCA.png)
