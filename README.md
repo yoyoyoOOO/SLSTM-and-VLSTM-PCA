@@ -23,3 +23,10 @@ The SLSTM network structure was shown in Fig. The corresponding method was provi
 ## VLSTM-PCA
 The VLSTM-PCA network structure was shown in Fig. The corresponding method was provided in the VLSTM-PCA network structure.py. The method to obtain Voronoi data was provided in the Voronoi tessellation for inverse operator.py
 ![image text](https://github.com/yoyoyoOOO/SLSTM-and-VLSTM-PCA/blob/main/VLSTM-PCA%26SLSTM/Picture/VLSTM-PCA.png)
+## SLSTM result
+
+
+## VLSTM-PCA result
+
+
+
