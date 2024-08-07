@@ -12,6 +12,10 @@ Programming language: Python (3.8 or higher)
 #### pandas
 #### Tensorflow (2.10.0 or higher)
 #### Keras (2.10.0 or higher)
+## Dataset
+The data is not disclosed because the 168 RVE models and the overall data after data processing exceed 500 GB therefore the data is not disclosed. Interested readers can contact the author.
+## Numerical simulation data preprocessing
+Numerical simulation data preprocessing method is provided in Numerical simulation data preprocessing method.py
 ## SLSTM
 ![image text](https://github.com/yoyoyoOOO/SLSTM-and-VLSTM-PCA/blob/main/VLSTM-PCA%26SLSTM/Picture/SLSTM.png)
 
